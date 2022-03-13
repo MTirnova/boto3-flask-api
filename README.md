@@ -20,7 +20,7 @@ AWS Access Key Id, AWS Secret Access Key, Region Name ve Instance Id parametrele
 
 ## Log Bilgisi
 
-Uygulama çalıştırıldığında aynı dizinde app.log isimli bir dosya oluşturulur ve yollanan istekler bu dosyaya kaydedilir.
+Uygulama çalıştırıldığında aynı dizinde app.log isimli bir dosya oluşturulur ve tutulan log bilgileri bu dosyaya kaydedilir.
 
 ## Requirement.txt 
 
